@@ -11,3 +11,4 @@ jauna relīze
 karsts labot izmaiņas
 
 
+tikai tests
