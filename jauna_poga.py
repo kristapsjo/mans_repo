@@ -12,3 +12,6 @@ karsts labot izmaiņas
 
 
 tikai tests
+
+
+karsts labojums
